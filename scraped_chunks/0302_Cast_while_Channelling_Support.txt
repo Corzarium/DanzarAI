@@ -1,0 +1,1 @@
+Cast while Channelling Support is a support gem that triggers linked non-channelling spells while the character is using a channelled skill. Cast while Channelling Support can drop anywhere. Cast while Channelling Support can be created from the following recipes: This item can be bought at the listed NPC vendors, after completing the following quests: No results found
