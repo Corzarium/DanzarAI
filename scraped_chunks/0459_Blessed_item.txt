@@ -1,0 +1,1 @@
+Blessed items are upgraded versions of breach items found in Breaches. These items require the use of a corresponding Blessing that drops from Breachlords within their domains. When a Blessing is applied to an item, that item will be permanently imbued with new power and a new name and may change base items. Blessed items cannot randomly drop or be chanced.

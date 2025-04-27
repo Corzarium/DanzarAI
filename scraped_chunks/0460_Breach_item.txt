@@ -1,0 +1,1 @@
+Breach items are a kind of unique items found in Breaches. These items can be upgraded by using a corresponding Blessing that drops from Breachlords within their Domains. When the Blessing is used, that item will be permanently imbued with new power and a new name and may change base items. Blessed items cannot randomly drop or chanced.

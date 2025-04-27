@@ -1,0 +1,1 @@
+Devour Support is a support gem which causes killing blows from supported skills to consume corpses to recover Life and Mana. Devour Support can drop anywhere. Devour Support can be created from the following recipes: This item is given as a quest reward for the following quests: This item can be bought at the listed NPC vendors, after completing the following quests:

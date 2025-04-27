@@ -1,0 +1,1 @@
+Point Blank is a support gem. Skills supported by this gem will be treated as if they have the Point Blank keystone when calculating their damage. Point Blank Support can drop anywhere. Point Blank Support can be created from the following recipes: This item can be bought at the listed NPC vendors, after completing the following quests:

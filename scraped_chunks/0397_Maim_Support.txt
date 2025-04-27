@@ -1,0 +1,1 @@
+Maim support is a support gem that grants a chance to maim on hit and these maimed enemies will then take increased physical damage. Maim Support can drop anywhere. Maim Support can be created from the following recipes: This item is given as a quest reward for the following quests: This item can be bought at the listed NPC vendors, after completing the following quests:
